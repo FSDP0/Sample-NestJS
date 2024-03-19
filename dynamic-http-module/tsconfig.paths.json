@@ -1,0 +1,21 @@
+{
+    "compilerOptions": {
+        "paths": {
+            "@comment/*": [
+                "./src/comment/*"
+            ],
+            "@cart/*": [
+                "./src/store/cart/*"
+            ],
+            "@product/*": [
+                "./src/store/product/*"
+            ],
+            "@store/*": [
+                "./src/store/*"
+            ],
+            "@root/*": [
+                "./src/*"
+            ]
+        }
+    }
+}
