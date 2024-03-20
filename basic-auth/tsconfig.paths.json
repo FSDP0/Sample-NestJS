@@ -1,0 +1,18 @@
+{
+    "compilerOptions": {
+        "paths": {
+            "@common/*": [
+                "./src/common/*"
+            ],
+            "@auth/*": [
+                "./src/auth/*"
+            ],
+            "@user/*": [
+                "./src/user/*"
+            ],
+            "@root/*": [
+                "./src/*"
+            ]
+        }
+    }
+}
